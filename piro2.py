@@ -1,3 +1,3 @@
 def piro2():
-    print("0701 대면 강의")
+    print("수정수정 cart")
     return 1
